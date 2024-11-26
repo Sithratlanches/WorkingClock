@@ -4,6 +4,8 @@ This is an working timer.
     - Writed by c#.
     - Currently there is only Turkish language.
     - New languages ​​and features will be added gradually
+ ## Download
+ [**Latest Release**](https://github.com/Sithratlanches/WorkingClock/releases/latest)
 ## Features
 ![](https://img001.prntscr.com/file/img001/V4z39zaIRzWNL8aH-6kpWA.png)
 - Today's date is written in the upper left corner
