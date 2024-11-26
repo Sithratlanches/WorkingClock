@@ -2,7 +2,7 @@
 This is an working timer. 
 - Descriptions.
     - Writed by c#.
-    - Currently there is only Turkish language.
+    - Currently there is only English language.
     - New languages ​​and features will be added gradually
  ## Download
  [**Latest Release**](https://github.com/Sithratlanches/WorkingClock/releases/latest)
