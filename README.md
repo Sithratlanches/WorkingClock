@@ -7,17 +7,17 @@ This is an working timer.
  ## Download
  [**Latest Release**](https://github.com/Sithratlanches/WorkingClock/releases/latest)
 ## Features
-![](https://img001.prntscr.com/file/img001/V4z39zaIRzWNL8aH-6kpWA.png)
+![](https://img001.prntscr.com/file/img001/1iu4dhz1RMGYs9zN35rTRA.png)
 - Today's date is written in the upper left corner
 - Under the duration, it is written whether the counter is working or not as Active(Aktif) or Passive(Pasif).
 
 ## Buttons
 | **Button** |                                   **Function**                                   |
 |:----------:|:--------------------------------------------------------------------------------:|
-|  "Başlat"  |                                Starts the counter                                |
-|  "Durdur"  |                                 Stops the counter                                |
+|  "Start"  |                                Starts the counter                                |
+|  "stop"  |                                 Stops the counter                                |
 |   "Reset"  | Stops the counter, resets the time and records the time to the "times.txt" file. |
-|  "Hesapla" |                    Calculates the total hours worked that day                    |
+|  "Calculate" |                    Calculates the total hours worked that day                    |
 
 **Don't forget** that the time calculation is reset every night at 00:00.
 
