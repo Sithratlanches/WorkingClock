@@ -15,7 +15,7 @@ This is an working timer.
 | **Button** |                                   **Function**                                   |
 |:----------:|:--------------------------------------------------------------------------------:|
 |  "Start"  |                                Starts the counter                                |
-|  "stop"  |                                 Stops the counter                                |
+|  "Stop"  |                                 Stops the counter                                |
 |   "Reset"  | Stops the counter, resets the time and records the time to the "times.txt" file. |
 |  "Calculate" |                    Calculates the total hours worked that day                    |
 
