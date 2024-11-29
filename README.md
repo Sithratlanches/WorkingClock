@@ -8,7 +8,7 @@ This is an working timer.
  [**Latest Release**](https://github.com/Sithratlanches/WorkingClock/releases/latest)
 
  
- [**Latest Alpha Release(Not stable version)**]([https://github.com/Sithratlanches/WorkingClock/releases/latest](https://github.com/Xelvion/WorkingClock/releases/tag/Alpha))
+ [**Latest Alpha Release(Not stable version)**](https://github.com/Xelvion/WorkingClock/releases/tag/Alpha)
  
 ## Features
 ![](https://img001.prntscr.com/file/img001/1iu4dhz1RMGYs9zN35rTRA.png)
