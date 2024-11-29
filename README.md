@@ -6,6 +6,8 @@ This is an working timer.
     - New languages ​​and features will be added gradually
  ## Download
  [**Latest Release**](https://github.com/Sithratlanches/WorkingClock/releases/latest)
+ [**Latest Alpha Release(Not stable version)**](https://github.com/Sithratlanches/WorkingClock/releases/latest)
+ 
 ## Features
 ![](https://img001.prntscr.com/file/img001/1iu4dhz1RMGYs9zN35rTRA.png)
 - Today's date is written in the upper left corner
